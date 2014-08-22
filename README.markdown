@@ -185,3 +185,10 @@ kudos
 
 Heavily inspired by (and previously mostly lifted outright from) isaacs's nifty
 tmp/instrument.js thingy from uglify-js.
+
+licensing
+=========
+
+Copyright (c) 2011, 2012 James Halliday <mail@substack.net>
+
+Licensed under the BSD license, see LICENSE file for details.
